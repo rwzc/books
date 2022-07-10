@@ -1,7 +1,7 @@
 # books
 A compilation of books that I have read and ones on my watchlist. Making it public so that I can share with friends and those that are interested in learning finding more interesting books in finance, technology and business in general.
 
-Might be messy.
+Might be messy. I'll see how I can categorize them.
 
 ## Places you can get books
 - National Library Board
@@ -46,11 +46,34 @@ Might be messy.
  34. The lean startup
  35. Side hustle
  36. Grit
- 37. Learn Python3 the hard way
- 38. Python programing: an introduction to computer science 3rd edt
- 39. Data Visualization with Python and Javascript
- 40. Python for Data Analysis
- 41. Cloud computing
+ 37. Eloquent javascript : a modern introduction to programming
+ 38. Learn Python3 the hard way
+ 39. Python programing: an introduction to computer science 3rd edt
+ 40. Data Visualization with Python and Javascript
+ 41. Python for Data Analysis
+ 42. Cloud computing
+ 43. The prop trader's chronicles : short-term proprietary trading strategies for both bull and bear markets
+ 44. The option trader's hedge fund : a business framework for trading equity and index options
+ 45. The Financial Times guide to options : the plain and simple guide to successful strategies
+ 46. We-commerce : how to create, collaborate, and succeed in the sharing economy
+ 47. Soldier of finance : take charge of your money and invest in your future
+ 48. Decrypted : a financial trader's take on cryptocurrency
+ 49. Zero to one : notes on startups, or how to build the future
+ 50. Growth hacker marketing : a primer on the future of PR, marketing, and advertising
+ 51. Unselling : the new customer experience
+ 52. Designing for performance : weighing aesthetics and speed
+ 53. Hustle : the power to charge your life with money, meaning, and momentum
+ 54. The everything store : Jeff Bezos and the age of Amazon
+ 55. The quarter-life breakthrough : invent your own path, find meaningful work, and build a life that matters
+ 56. Why "A" students work for "C" students : and "B" students work for the government
+ 57. You can retire sooner than you think : the 5 money secrets of the happiest retirees
+ 58. The art of war for small business : defeat the competition and dominate the market with the masterful strategies of Sun Tzu
+ 59. The $100 startup : reinvent the way you make a living, do what you love, and create a new future
+ 60. The richest man in town : the twelve commandments of wealth
+ 61. Li Ka Shing
+ 62. Deep value investing : finding bargain shares with big potential
+ 63. The executioner : implementing intangible, elusive success principles
+ 64. The art of asset allocation : principles and investment strategies for any market
 
 
 
